@@ -1,5 +1,7 @@
 ﻿using System.Reflection;
 
+namespace GithubUserSearchCLI;
+
 internal class Program
 {
     static void Main(string[] args)
